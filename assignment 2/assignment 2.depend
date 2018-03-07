@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1479082764 source:c:\c++ assignment\assignment 2\assignment 2\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"appliance.h"
+	"solarPanel.h"
+	<iomanip>
+
+1479082515 source:c:\c++ assignment\assignment 2\assignment 2\building.cpp
+	<iostream>
+	<string>
+	"appliance.h"
+	"solarPanel.h"
+	<iomanip>
+	<fstream>
+	<sstream>
+
+1479082764 c:\c++ assignment\assignment 2\assignment 2\appliance.h
+	<string>
+	<iostream>
+
+1479079458 c:\c++ assignment\assignment 2\assignment 2\solarpanel.h
+	<string>
+	<iostream>
+
+1479079458 source:c:\c++ assignment\assignment 2\assignment 2\solarpanel.h
+	<string>
+	<iostream>
+
+1479082764 source:c:\c++ assignment\assignment 2\assignment 2\appliance.h
+	<string>
+	<iostream>
+
+1479083208 source:c:\c++ assignment\assignment 2\assignment 2\appliance.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"appliance.h"
+	"solarPanel.h"
+	<iomanip>
+
+1479083145 source:c:\c++ assignment\assignment 2\assignment 2\solarpanel.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"appliance.h"
+	"solarPanel.h"
+	<iomanip>
+
+1479084548 source:c:\users\user\desktop\assignment 2\appliance.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"appliance.h"
+	"solarPanel.h"
+	<iomanip>
+
+1479084547 c:\users\user\desktop\assignment 2\appliance.h
+	<string>
+	<iostream>
+
+1479084547 c:\users\user\desktop\assignment 2\solarpanel.h
+	<string>
+	<iostream>
+
+1479084547 source:c:\users\user\desktop\assignment 2\appliance.h
+	<string>
+	<iostream>
+
+1479084547 source:c:\users\user\desktop\assignment 2\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"appliance.h"
+	"solarPanel.h"
+	<iomanip>
+
+1479084548 source:c:\users\user\desktop\assignment 2\solarpanel.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"appliance.h"
+	"solarPanel.h"
+	<iomanip>
+
+1479084547 source:c:\users\user\desktop\assignment 2\solarpanel.h
+	<string>
+	<iostream>
+
